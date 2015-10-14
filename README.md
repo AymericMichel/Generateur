@@ -1,2 +1,2 @@
 # Generateur
-Générateur de flux
+Projet - Générateur de flux
